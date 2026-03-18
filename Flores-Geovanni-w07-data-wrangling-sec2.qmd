@@ -2,7 +2,7 @@
 title: "Data Wrangling with R"
 subtitle: "IBM 320 Section 02"
 author: "Geovanni Flores"
-date: "2026-03-16"
+date: "2026-03-18"
 format: 
     html:
         theme: cosmo
