@@ -104,4 +104,3 @@ flights_df |>
   ) +
     theme_bw()
 ```
-1
