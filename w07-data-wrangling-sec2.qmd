@@ -1,7 +1,7 @@
 ---
 title: "Data Wrangling with R"
 subtitle: "IBM 320 Section 02"
-author: "Leonel Naranjo"
+author: "Geovanni Flores"
 date: "2026-03-11"
 format: 
     html:
